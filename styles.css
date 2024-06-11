@@ -19,13 +19,18 @@ body {
       align-content: center;
 }
 
-main {
+
+/* BLOG CARD */
+.blog-card{
       background-color: white;
       width: 24rem;
       height: 33rem;
       border-radius: 20px;
+      padding: 1rem;
+      display: grid;
+      justify-items: center;
+      align-content: space-evenly;
 }
-
 
 /* FOOTER */
  .attribution { 
